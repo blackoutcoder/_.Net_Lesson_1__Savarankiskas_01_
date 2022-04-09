@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_.Net_Lesson_1__Savarankiskas_01_</RootNamespace>
-  </PropertyGroup>
-
-</Project>
