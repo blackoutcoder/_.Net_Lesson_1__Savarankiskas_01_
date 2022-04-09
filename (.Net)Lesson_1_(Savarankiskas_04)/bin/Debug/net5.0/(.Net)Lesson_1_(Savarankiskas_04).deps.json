@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "(.Net)Lesson_1_(Savarankiskas_04)/1.0.0": {
+        "runtime": {
+          "(.Net)Lesson_1_(Savarankiskas_04).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(.Net)Lesson_1_(Savarankiskas_04)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
